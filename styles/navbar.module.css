@@ -1,0 +1,15 @@
+.active {
+  color: red;
+}
+.nav {
+  background: gainsboro;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  justify-content: space-between;
+}
+.menu {
+  display: flex;
+  column-gap: 40px;
+  list-style-type: none;
+}
